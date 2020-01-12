@@ -1,0 +1,172 @@
+{
+    "fullSigns" : [
+        {
+          "name": "aries",
+          "avatar": "../images/aries.png", 
+          "start": 21, 
+          "monthS": "march", 
+          "end": 19, 
+          "monthE": "april",
+          "behaviour": "The essence of Aries energy shows up as encouraging, unstoppable, bold, devoted, heroic and caring. In its shadow form, Aries energy can make us prideful, self-centered, impulsive, bossy, stubborn, reckless and competitive.",
+          "description": [
+              {
+                 "2020Title": "You’re a fire sign who’s always ready for whatever challenges life brings, and this year is no different. Step up and conquer the world!",
+                 "2020More": "Fire signs (Aries, Leo, and Sagittarius) are driven by excitement, and there's no shortage of that this year. With expansive Jupiter in outgoing Sagittarius until early December, you enjoy a mix of fun and adventure. Travel and learn from other cultures as much as possible. Love goddess Venus doesn't enter any retrograde periods, and the mood is passionate and aggressive when she spends time in the fire signs (Aries in late April, Leo in late July, and Sagittarius in early November). Translation? There won't be any shortage of excitement in your love life!"}
+          ]
+        },
+        {
+          "name": "taurus", 
+          "avatar": "../images/taurus.png", 
+          "start": 20, 
+          "monthS": "april", 
+          "end": 21, 
+          "monthE": "may",
+          "behaviour": "This zodiac sign has a built-in energy conservation program. It will patiently assess whether something is worth the investment of time and resources. Then if the green light flashes, it’s all systems go!",
+          "description": [
+              {
+                 "2020Title": "Your love of the good life motivates you to accomplish some great things this year!",
+                 "2020More": "You’re ready to work hard in exchange for the pleasures that life has to offer—especially beauty and abundance. You don’t have to apologize for loving beautiful things—this essential part of your nature is what drives you to succeed. Your senses are awakened now, and you fall in love with gourmet food, fine wine, expensive perfume, luxurious linens and beautiful artwork."}
+          ]
+        },
+        {
+            "name": "gemini", 
+            "avatar": "../images/gemini.png", 
+            "start": 21, 
+            "monthS": "may", 
+            "end": 21, 
+            "monthE": "june",
+            "behaviour": "Ruled by the dual sign of the twins, Gemini energy circulates in a quick and frenetic way. Gemini rules communication and this sign inspires witty wordplays and dynamic dialogue.",
+            "description": [
+                {
+                   "2020Title": "Connect with yourself and others on a higher level this year!",
+                   "2020More": "Mercury is your ever-logical, perceptive ruler, and as one of the fastest moving planets it changes signs quickly. Slow down when dealing with the obstacles like miscommunications, misunderstandings and commuting mishaps. This will be challenging for you, Gemini, but you can do it. Listen to your body and at the very least get a physical to rule out more serious ailments."}
+            ]
+          },
+          {
+            "name": "cancer", 
+            "avatar": "../images/cancer.png", 
+            "start": 22, 
+            "monthS": "june", 
+            "end": 21, 
+            "monthE": "july",
+            "behaviour": "Sensitive Cancer Zodiac is ruled by the ever-changing Moon, and your moods go through many cycles. Pay attention to your dreams, especially near a Full Moon.",
+            "description": [
+                {
+                   "2020Title": "Make yourself a top priority this year!",
+                   "2020More": "Your sign is linked with your roller coaster emotions, so it makes sense that your ruler is the emotional moon. Paying close attention to the moon’s movements will help you understand your moodiness a little better this year, starting with a full moon/lunar eclipse in your sign in the middle of January. You know that taking care of yourself is closely linked to your ability to take care of others, so if you haven’t been in a good position to do things for yourself, your familial bonds might be suffering as well. Take a spa day or weekend to recharge."}
+            ]
+          },
+          {
+            "name": "leo", 
+            "avatar": "../images/leo.png", 
+            "start": 23, 
+            "monthS": "july", 
+            "end": 22, 
+            "monthE": "august",
+            "behaviour": "When the whole universe revolves around you, it’s hard to be humble! Like the Sun, Leo heats everything up with its dazzling drama. So what if your appetite is huge?",
+            "description": [
+                {
+                   "2020Title": "Be the best Lion you can be in 2020!",
+                   "2020More": "You love basking in attention so it’s only fitting that your ruler is the ego-boosting sun. When 2020 begins the sun is in earthy, responsible Capricorn, so you’ll find yourself doing things for the sense of accomplish more than the glory. Your mood is outgoing and playful, and you crave strong reactions to your antics. For the next four weeks you’re the life of the party, and you add the color and drama that’s been missing from your loved ones’ lives."}
+            ]
+          },
+          {
+            "name": "virgo", 
+            "avatar": "../images/virgo.png", 
+            "start": 23, 
+            "monthS": "august", 
+            "end": 22, 
+            "monthE": "september",
+            "behaviour": "Detail-oriented Virgo is ruled by Mercury, planet of the mind and communication. Virgos are always analyzing everything, forming opinions and judgments.",
+            "description": [
+                {
+                   "2020Title": "Take care of your mind and body this year!",
+                   "2020More": "Feeling broad-minded and sociable is a great way to start 2020. This year’s Mercury retrogrades all visit emotional water signs, so intuition often trumps logic when avoiding obstacles and dealing with dilemmas. This is also a time to take care of health issues, so schedule your yearly doctors’ visits and follow up on any tests or lab work you have done."}
+            ]
+          },
+          {
+            "name": "libra", 
+            "avatar": "../images/libra.png", 
+            "start": 23, 
+            "monthS": "september", 
+            "end": 22, 
+            "monthE": "october",
+            "behaviour": "Gentle Libra is ruled by Venus, planet of beauty and love. Perhaps that explains your smooth talk and pretty face. Just remember to save some time for yourself.",
+            "description": [
+                {
+                   "2020Title": "Your sense of fairness drives you to success.",
+                   "2020More": "Your beauty (inside and out) is evident, and you’re often looked up to as the standard by which other people want to live their lives. Decision-making can be a challenge now as you look for the ultimate fair solution, but sometimes there isn’t one that will make everyone happy."}
+            ]
+          },
+          {
+            "name": "scorpio", 
+            "avatar": "../images/scorpio.png", 
+            "start": 23, 
+            "monthS": "october", 
+            "end": 21, 
+            "monthE": "november",
+            "behaviour": "Mysterious Scorpio is the zodiac’s most misunderstood sign. You’re so powerful that people feel your presence, even before you’ve said a word!",
+            "description": [
+                {
+                   "2020Title": "Nothing shakes your confidence this year!",
+                   "2020More": "You might go to great lengths to reinvent yourself, but you aren’t doing it for anyone else. This is your year to do you, Scorpio. Your desires come to the surface, and you crave closer, more intimate relationships. You might be even more secretive now than usual, but you expect full disclosure from everyone else."}
+            ]
+          },
+          {
+            "name": "sagittarius", 
+            "avatar": "../images/sagittarius.png", 
+            "start": 22, 
+            "monthS": "november", 
+            "end": 22, 
+            "monthE": "december",
+            "behaviour": "As the zodiac’s traveler, Sagittarius is the ultimate free spirit: optimistic, open-minded and ambitious. You’re happiest in wide-open spaces with plenty of adventure and excitement.",
+            "description": [
+                {
+                   "2020Title": "If you can envision it, you can make it a reality.",
+                   "2020More": "Your good luck is directly tied to your actions this year, essentially ensuring that you make your own luck by working hard and actively shaping your own future. You have the best time expanding your horizons and visiting new places/meeting new people now, especially if they can teach you something about the world and/or yourself."}
+            ]
+          },
+          {
+            "name": "capricorn", 
+            "avatar": "../images/capricorn.png", 
+            "start": 23, 
+            "monthS": "december", 
+            "end": 20, 
+            "monthE": "january",
+            "behaviour": "Accustomed to regular butt-kickings from Saturn, you often see life as an uphill battle, with the ultimate reward arriving only through suffering and sacrifice.",
+            "description": [
+                {
+                   "2020Title": "Combine the old with the new to be more successful this year.",
+                   "2020More": "You should be especially focused on your goals now and may be particularly in tune with your ultimate purpose in life. You must be willing to make changes to meet your full potential, but a hardworking Goat is never afraid to do whatever it takes to climb to the top."}
+            ]
+          },
+          {
+            "name": "aquarius", 
+            "avatar": "../images/aquarius.png", 
+            "start": 21, 
+            "monthS": "january", 
+            "end": 19, 
+            "monthE": "february",
+            "behaviour": "Just like your celestial overlord, you’ve been known to do things your own way, moving on a path different from everyone else’s. Some call you eccentric, others appreciate your cutting-edge originality and authentic style.",
+            "description": [
+                {
+                   "2020Title": "The new year is full of changes and challenges!",
+                   "2020More": "The sun always passes through your sign at the start of the year, so from the end of January until the end of February, you celebrate your birthday month. Happy birthday to you, style maker and game changer Aquarius! Watch out for a buildup of nervous tension over not knowing exactly what might happen next."}
+            ]
+          },
+          {
+            "name": "pisces", 
+            "avatar": "../images/pisces.png", 
+            "start": 20, 
+            "monthS": "february", 
+            "end": 20, 
+            "monthE": "march",
+            "behaviour": "A part of you is always trying to “swim away” or escape reality. The other part is so intuitive that you get swept up in everything going on.Your imagination is the perfect hideout when you want to escape.",
+            "description": [
+                {
+                   "2020Title": "A mix of illusion and reality shapes your year.",
+                   "2020More": "Pay attention to intuition and visions – your subconscious is an accurate window into your soul and what you truly want this year. Take a breather, Pisces, and regain your strength before it’s time to start all over again."}
+            ]
+          }                     
+      ]
+}

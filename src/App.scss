@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono&display=swap');
+
+body {
+  font-family: 'Space Mono', monospace;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+}
+
+input{
+	/* Firefox */
+	-moz-appearance: textfield;
+
+	/* Chrome */
+	&::-webkit-inner-spin-button {
+		-webkit-appearance: none;
+		margin:0;
+  }
+}
+
+button .submit {
+  display: flex;
+}
+
+.card-img-top {
+  width: 5rem;
+}
+
+.card {
+  margin-bottom: 20px;
+}
